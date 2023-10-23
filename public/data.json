@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/qnmxj0c/health.jpg",
+      "title": "Clean Water for Children",
+      "category_name": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_color": "#0052FF",
+      "description": "Providing access to clean water is essential for the health and well-being of children around the world. Our initiative aims to bring safe and clean drinking water to communities in need, ensuring a brighter and healthier future for the next generation. Join us in making a difference. Together, we can provide sustainable solutions for clean water sources, sanitation facilities, and hygiene education, leading to healthier lives and stronger communities. Your support can transform lives and create lasting impact.",
+      "price": 340
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/dbCqZbR/education.jpg",
+      "title": "Quality Education for All",
+      "category_name": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_color": "#FF444A",
+      "description": "Every child deserves a quality education that empowers them to reach their full potential. Our educational programs focus on providing resources, training teachers, and creating inclusive learning environments. Together, we can build a brighter future through education. Education is the cornerstone of personal and societal development. It opens doors to opportunities, fosters critical thinking, and empowers individuals to shape their own destinies. Join us in our mission to ensure that every child, regardless of their background, has access to a quality education.",
+      "price": 290
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/0qHJk9y/clothing.jpg",
+      "title": "Used Clothing Drive",
+      "category_name": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_color": "#79C23F",
+      "description": "Join our clothing drive to give gently used clothing a new purpose. Your donations help clothe those in need and reduce waste. Let's come together to make a positive impact on both individuals and the environment. Clothing is more than just fabric; it's a basic human need and a form of self-expression. Unfortunately, many people lack access to adequate clothing. By donating your gently used clothing, you not only provide warmth and dignity to those in need but also contribute to sustainable fashion practices. Join our clothing drive and be part of the solution.",
+      "price": 260
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/prPk49w/food.jpg",
+      "title": "Better Food for Everyone",
+      "category_name": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_color": "#F87147",
+      "description": "Access to nutritious and wholesome food is a fundamental right. Our mission is to improve food accessibility and promote healthy eating habits. Together, we can build a healthier and happier future for all. Food is not just sustenance; it's a source of vitality and well-being. Sadly, many individuals and communities face food insecurity and limited access to nutritious options. Join us in our efforts to create a world where everyone has access to fresh, healthy, and culturally appropriate food choices.",
+      "price": 220
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/FhNF6Y8/food1.jpg",
+      "title": "Supporting Nutritional Initiatives",
+      "category_name": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_color": "#F87147",
+      "description": "Nutrition plays a crucial role in overall health and development. Our programs focus on providing essential nutrients to underserved communities, ensuring a brighter and healthier future for all. Good nutrition is the foundation of health, but many individuals, especially in vulnerable communities, lack access to adequate nutrition. Join us in our mission to support nutritional initiatives that provide essential vitamins, minerals, and nourishment to those in need.",
+      "price": 180
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/0ZGk95T/clothing1.jpg",
+      "title": "Clothing for All Seasons",
+      "category_name": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_color": "#79C23F",
+      "description": "Explore our collection of clothing for all seasons and styles. From cozy winter wear to trendy summer outfits, we have something for everyone. Elevate your wardrobe with our latest fashion trends. Fashion is a form of self-expression, and everyone deserves to feel confident and comfortable in what they wear. Our clothing selection offers a wide range of choices, from classic to contemporary, and ensures that individuals of all ages and styles can find the perfect outfit for every occasion. Explore our collection and discover your unique style.",
+      "price": 145
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/cFcKK0N/education1.jpg",
+      "title": "Empowering Through Education",
+      "category_name": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_color": "#FF444A",
+      "description": "Education is the key to empowerment. Our educational initiatives aim to provide equal learning opportunities to all, empowering individuals to shape their own futures and communities. Education is a transformative force that can break the cycle of poverty, foster critical thinking, and empower individuals to reach their full potential. Join us in our mission to provide quality education to underserved communities and empower minds for a brighter future.",
+      "price": 250
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/TcC6hX2/health1.jpg",
+      "title": "Promoting Health and Wellness",
+      "category_name": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_color": "#0052FF",
+      "description": "Healthy individuals contribute to healthy communities. Join us in promoting health and wellness through access to healthcare, nutrition, and preventative care programs. Health is a precious asset, and everyone deserves access to quality healthcare and wellness resources. Our programs focus on promoting healthy lifestyles, providing essential healthcare services, and empowering individuals to take charge of their well-being. Join us in our mission to build healthier communities and improve overall well-being for all.",
+      "price": 310
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/ft6nhbF/health2.jpg",
+      "title": "Building a Healthier Future",
+      "category_name": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_color": "#0052FF",
+      "description": "A healthier future begins with small steps. Together, we can build healthier communities and promote well-being for all. Join us in making a positive impact on people's lives. Health is a precious gift, and we believe in the power of prevention and proactive healthcare. Our initiatives aim to create a healthier future by promoting wellness, providing access to healthcare services, and empowering individuals to make informed health choices. Join us in building a healthier and happier future for all.",
+      "price": 175
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/7zq6xbw/education2.jpg",
+      "title": "Nurturing Minds with Education",
+      "category_name": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_color": "#FF444A",
+      "description": "Education is a powerful tool for personal and societal transformation. Our educational programs focus on empowering minds and fostering lifelong learning for a brighter future. Education is the key to unlocking human potential and driving positive change. Our educational initiatives aim to provide equal access to quality education, empower individuals to pursue their dreams, and create opportunities for a brighter future. Join us in our mission to empower minds through education.",
+      "price": 270
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/YQZ1tvZ/clothing2.jpg",
+      "title": "Fashion for All Ages",
+      "category_name": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_color": "#79C23F",
+      "description": "Discover a diverse range of fashion choices for all ages and occasions. Whether you're a trendsetter or looking for classic styles, we've got the perfect clothing options for you. Fashion knows no boundaries, and style is a personal expression. Our clothing selection caters to individuals of all ages and occasions. Whether you're looking for trendy outfits or timeless classics, we have something for everyone. Explore our collection and elevate your style.",
+      "price": 320
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/qFtZVMW/food2.jpg",
+      "title": "Delicious Food for Every Palate",
+      "category_name": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_color": "#F87147",
+      "description": "Indulge in a culinary journey with our delectable food offerings. From savory to sweet, we cater to every palate. Join us in savoring the flavors of life. Food is a celebration of culture and a sensory experience. Our culinary offerings are designed to delight every palate, from savory dishes to sweet treats. Join us in savoring the richness of flavors and the joy of shared meals. Explore our diverse menu and embark on a culinary journey.",
+      "price": 230
+    }
+  ]
+  
